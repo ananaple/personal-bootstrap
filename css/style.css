@@ -20,6 +20,13 @@ h2 {
 	margin-bottom: 30px;
 	font-size: 34px;
 }
+
+
+#what {
+	background-image: url('../img/15.jpg');
+	background-size: cover;
+	border-radius: 50%;
+}
 h3, h4 {
 	color: #121d1f;
 	font-size: 20px;
